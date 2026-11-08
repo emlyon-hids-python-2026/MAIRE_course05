@@ -1,0 +1,17 @@
+[project]
+name = "maire-course05"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Arthur Maire", email = "arthur.maire@edu.em-lyon.com" }
+]
+requires-python = ">=3.15"
+dependencies = []
+
+[project.scripts]
+maire-course05 = "maire_course05:main"
+
+[build-system]
+requires = ["uv_build>=0.13.7,<0.14.0"]
+build-backend = "uv_build"
