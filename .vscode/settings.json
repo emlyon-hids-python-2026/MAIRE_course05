@@ -15,7 +15,7 @@
     },
 
     // --- Python ---
-    // "python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python",
+    "python.defaultInterpreterPath": "C:\\Users\\Maire Arthur\\AppData\\Roaming\\uv\\python\\cpython-3.15-windows-x86_64-none\\python.exe",
     // --- Uncomment for Windows User ---
     "python.defaultInterpreterPath": "${workspaceFolder}/.venv/Scripts/python.exe",
     "python.terminal.activateEnvironment": false,
